@@ -4,7 +4,6 @@
 <link rel="stylesheet" href="css/index/style.css"/>
    
     <div class="index">
-    <p>aaaaaaaaaaaa</p>
         <div class="search"> 
             <form method="GET" action="search.php">
                 <input  type="text" name="search" class="search-field" placeholder='Поиск по сайту'>
@@ -13,7 +12,7 @@
         </div>
 
         <div class="we-offer">
-            <h2>ЧТО МЫ ПРЕДЛАГАЕМ zzzzzzzzzzzzzzzzzzz</h2><br>
+            <h2>ЧТО МЫ ПРЕДЛАГАЕМ</h2><br>
             <p>
                 Наша главная цель-рассказать о Москве так,
                 чтобы это было интересно всем!
