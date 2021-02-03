@@ -4,6 +4,7 @@
 <link rel="stylesheet" href="css/index/style.css"/>
    
     <div class="index">
+    <p>aaaaaaaaaaaa</p>
         <div class="search"> 
             <form method="GET" action="search.php">
                 <input  type="text" name="search" class="search-field" placeholder='Поиск по сайту'>
